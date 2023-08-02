@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.successNotification {
+  color: green;
+  font-size: 1.2em;
+}
+
+.failureNotification {
+  color: red;
+  font-size: 1.2em;
+}
